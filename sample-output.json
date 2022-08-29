@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Moqtada al-Sadr, dominant Iraqi political leader, retires from politics",
+      "description": "The step by Moqtada al-Sadr, who supporters recently stormed parliament, is seen as a major move.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-62713026",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183E1/production/_126479299_reuters23aug8abde7777d3ab25f5b9fd79b7d54f0808a70d6a1.jpg",
+      "publishedAt": "2022-08-29T11:52:22.8009289Z",
+      "content": "By Raffi BergBBC News\r\nOne of Iraq's most powerful figures, who has been at the centre of a long crisis over forming a government, says he is retiring from political life. \r\nMoqtada al-Sadr, a firebr… [+625 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Artemis: Technical issues ahead of Nasa launch of Moon rocket",
+      "description": "Lift-off at Cape Canaveral in Florida is expected at about 13:33 BST but engineers are working on a number of technical problems.",
+      "url": "http://www.bbc.co.uk/news/live/science-environment-62681827",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2022-08-29T11:22:26.9727862Z",
+      "content": "Welcome to our live coverage of the scheduled launch of the Space Launch System (SLS), the most powerful rocket ever made by Nasa.\r\nWe'll be bringing you updates from Rebecca Morelle and Jonathan Amo… [+624 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "MTV VMAs: Taylor Swift announces new album as she wins top prize",
+      "description": "The singer revealed details about her new record Midnights as she scooped video of the year.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-62712148",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7195/production/_126477092_hi078302081.jpg",
+      "publishedAt": "2022-08-29T09:52:28.2554854Z",
+      "content": "By Steven McIntoshEntertainment reporter\r\nTaylor Swift announced a new album as she scooped the top prize at the MTV Video Music Awards (VMAs) on Sunday.\r\nThe singer won several prizes at the event i… [+7515 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "'Man of the Hole': Last of his tribe dies in Brazil",
+      "description": "The last member of an uncontacted indigenous group in Brazil had lived in total isolation for decades.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-62712318",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/84B9/production/_126477933_57024a47-535b-4c2d-9b8c-c62a53e638bb.jpg",
+      "publishedAt": "2022-08-29T09:52:20.1108094Z",
+      "content": "By Vanessa BuschschlüterBBC News\r\nThe last remaining member of an uncontacted indigenous group in Brazil has died, officials say.\r\nThe man, whose name was not known, had lived in total isolation for … [+2188 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Indianapolis: Dutch commando dies after shooting outside US hotel",
+      "description": "The special forces soldier was one of three Dutch commandos wounded in an attack early on Saturday.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62712298",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3328/production/_126469031_dutchdefence.jpg",
+      "publishedAt": "2022-08-29T08:52:22.833071Z",
+      "content": "By Leo SandsBBC News\r\nA Dutch commando has died of his injuries after being shot outside an Indianapolis hotel while off-duty. \r\nHe was one of three Dutch soldiers, all in the US for training exercis… [+1478 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: UN team leaves for Zaporizhzhia nuclear plant",
+      "description": "The mission is expected to arrive in Zaporizhzhia later in the week, the IAEA director general says.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62710530",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1492B/production/_126476248_gettyimages-1240274985.jpg",
+      "publishedAt": "2022-08-29T05:22:17.4734108Z",
+      "content": "A mission from the UN's nuclear watchdog is on its way to Ukraine's embattled Zaporizhzhia nuclear power plant, the organisation's head said. \r\nRafael Grossi, director general of the International At… [+473 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Brazil election: Bolsonaro and Lula trade insults in first debate",
+      "description": "Jair Bolsonaro and Luiz Inácio Lula da Silva clash in a debate ahead of the October presidential vote.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-62710526",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FE8F/production/_126476156_tv078300934.jpg",
+      "publishedAt": "2022-08-29T04:52:23.2824156Z",
+      "content": "Brazil's right-wing President, Jair Bolsonaro, and leftist leader Luiz Inácio Lula da Silva have taken part in a fiery first television debate ahead of October's general election.\r\nMr Bolsonaro accus… [+1434 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "EU faces 'awful' winters without gas cap - minister",
+      "description": "Calls mount for an EU-wide cap on the price of gas and its decoupling from electricity.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62710522",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11721/production/_126475417_c76f76ce8533a570be151eec37244b6367318e73.jpg",
+      "publishedAt": "2022-08-29T02:37:23.588446Z",
+      "content": "By Alys DaviesBBC News\r\nBelgium's energy minister has warned that EU countries will face \"five to ten\" \"terrible\" winters if nothing is done to reduce natural gas prices.\r\nCalls are mounting for an E… [+2203 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Pakistan flood victims throw note pleading for help",
+      "description": "Many residents of the mountainous Manoor valley say they are stranded and are unable to get home.",
+      "url": "http://www.bbc.co.uk/news/world-asia-62710230",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1105/production/_126475340_tv078283769.jpg",
+      "publishedAt": "2022-08-28T22:52:21.9002151Z",
+      "content": "By Farhat JavedBBC Urdu, Manoor valley\r\n\"We need supplies, we need medicine and please rebuild the bridge, we are left with nothing now.\" Those are the contents of a handwritten note villagers in the… [+6173 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Roland Mesnier: Former White House pastry chef dies at 78",
+      "description": "French chef Roland Mesnier produced delicacies for five US presidents over 27 years.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62708872",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13463/production/_126474987_mediaitem126474153.jpg",
+      "publishedAt": "2022-08-28T20:22:24.072455Z",
+      "content": "Roland Mesnier, the French-born White House pastry chef who produced delicacies for five US presidents, has died at the age of 78. \r\nMesnier was first hired during Jimmy Carter's presidency in 1979 a… [+1074 chars]"
+    }
+  ]
+}
