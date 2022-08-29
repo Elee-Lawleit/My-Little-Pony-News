@@ -77,6 +77,12 @@ export class news extends Component {
       articles: this.articles,
     };
   }
+  async componentDidMount(){
+    let url = "https://newsapi.org/v2/top-headlines?country=us&category=sports&apiKey=026ee9764e1f48b0989406a8126ee4e3";
+    let data = await fetch(url);
+    let parsedJSON = await data.json(data);
+    this.setState({articles: parsedJSON.articles});
+  }
   render() {
     return (
       <>
@@ -93,7 +99,7 @@ export class news extends Component {
                 title={article.title}
                 author={article.author}
                 description={article.description}
-                imageUrl={article.urlToImage}
+                imageUrl={!article.urlToImage?"https://sportshub.cbsistatic.com/i/r/2022/08/29/eaa1b387-3de4-4a99-af8e-a50f53647e12/thumbnail/1200x675/d7c95df3e7332b618eddd8f575b88850/mlbpowerrankings0829.png":article.urlToImage}
                 url={article.url}
               />
             );
