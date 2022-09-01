@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export class newsItem extends Component {
   render() {
-    let { title, description, imageUrl, url, author } = this.props;
+    let { title, description, imageUrl, url, author, publishedAt, source } = this.props;
     return (
           <div className="container px-5 py-12 mx-auto">
             <div className="flex flex-wrap -m-4">
@@ -14,9 +14,15 @@ export class newsItem extends Component {
                     alt="blog"
                   />
                   <div className="p-6">
-                    <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
-                      {author}
-                    </h2>
+                <div className="flex justify-between my-1">
+                      <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
+                        Author: {author}
+                      </h2>
+                      <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
+                    {publishedAt}
+                      </h2>
+                    </div>
+                <div className="tracking-widest text-sm title-font font-medium text-gray-400 mb-1 my-2">Source: <span className="bg-gray-100 text-gray-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">{source}</span></div>
                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
                       {title}
                     </h1>
