@@ -32,6 +32,7 @@ export class newsItem extends Component {
                         className="text-purple-500 inline-flex items-center md:mb-2 lg:mb-0 cursor-pointer"
                         href={url}
                         target="_blank"
+                        rel="noreferrer"
                       >
                         Learn More
                         <svg
