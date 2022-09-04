@@ -1,8 +1,7 @@
-import React, { Component } from "react";
+import React from "react";
 
-export class newsItem extends Component {
-  render() {
-    let { title, description, imageUrl, url, author, publishedAt, source } = this.props;
+const NewsItem = (props) => {
+    let { title, description, imageUrl, url, author, publishedAt, source } = props;
     return (
           <div className="container px-5 py-12 mx-auto">
             <div className="flex flex-wrap -m-4">
@@ -56,6 +55,5 @@ export class newsItem extends Component {
           </div>
     );
   }
-}
 
-export default newsItem;
+export default NewsItem;
