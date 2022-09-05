@@ -10,6 +10,10 @@ import {
   Routes,
   Route
 } from "react-router-dom"
+import UseReducerExample from './components/UseReducerExample';
+import UseEffectExample from './components/UseEffectExample';
+import UseImperativeExample from './components/UseImperativeExample';
+import UseContextExample from './components/UseContextExample';
 
 const App = ()=>{
 
@@ -25,8 +29,12 @@ const App = ()=>{
           />
           <Navbar title="My Little Pony" />
           <Counter />
+          <UseReducerExample/>
+          <UseEffectExample/>
+          <UseImperativeExample/>
+          <UseContextExample/>
+          
           <Routes>
-
             {/* exact means exact match with the url, duh */}
             {/* key is to uniquely identify each prop, so react knows that it HAS to re-render the component */}
             {/* if key is not given, react will assume that the correct component is already rendered,so it won't re-render */}
